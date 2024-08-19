@@ -16,6 +16,11 @@ July 2024 - July 2024
 
 <br>
 
+## 🗄️ Database Diagram
+![image](https://github.com/user-attachments/assets/15a062f6-c449-4384-9936-8502563d2699)
+
+<br>
+
 ## 🔍 Key Features:
 
 #### 1. SECTION ONE:
