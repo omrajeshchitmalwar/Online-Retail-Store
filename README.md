@@ -1,4 +1,4 @@
-# 🛒 Online Retail Store Project
+# 🛒 Online Retail Store 
 
 ![image](https://github.com/user-attachments/assets/edb52761-b653-435a-aea2-a2f842d744c0)
 
